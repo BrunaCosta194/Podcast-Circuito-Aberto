@@ -1,0 +1,2 @@
+**Prompt para a capa:**
+> /imagine prompt: "RPG style, futuristic city at night seen through big windows, girl podcaster recording with microphone, cyberpunk lights, 1:1 aspect ratio, cinematic lighting, ultra-detailed --v 5.2"S
